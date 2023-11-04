@@ -9,10 +9,8 @@ class InheritanceExample
 
 class Child extends InheritanceExample
 {
-
      public static void main(String[] args)
      {
-
           Child sum=new Child();
           sum.result1 = sum.result + 4;
           System.out.println("The result is "+ sum.result1);
