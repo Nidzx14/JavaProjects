@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2587723b-e451-4787-81f9-070e521b76c5" name="Changes" comment="ArchonProjects">
+      <change afterPath="$PROJECT_DIR$/src/composition_library.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -132,7 +133,23 @@
       <option name="project" value="LOCAL" />
       <updated>1702111648716</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="ArchonProjects">
+      <option name="closed" value="true" />
+      <created>1702113364051</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1702113364051</updated>
+    </task>
+    <task id="LOCAL-00009" summary="ArchonProjects">
+      <option name="closed" value="true" />
+      <created>1706781218766</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1706781218766</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
